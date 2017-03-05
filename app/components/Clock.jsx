@@ -3,7 +3,7 @@ var React = require('react');
 var Clock = React.createClass({
   getDefaultProps: function() {
     return {
-      totalSeconds: 102
+      totalSeconds: 0
     }
   },
 
